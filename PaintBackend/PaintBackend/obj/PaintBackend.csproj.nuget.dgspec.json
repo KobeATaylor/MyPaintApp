@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ktaylor2\\Desktop\\SoftwareEngineering\\PaintBackend\\PaintBackend\\PaintBackend.csproj": {}
+    "C:\\Users\\ktaylor2\\Source\\Repos\\MyPaintApp\\PaintBackend\\PaintBackend\\PaintBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ktaylor2\\Desktop\\SoftwareEngineering\\PaintBackend\\PaintBackend\\PaintBackend.csproj": {
+    "C:\\Users\\ktaylor2\\Source\\Repos\\MyPaintApp\\PaintBackend\\PaintBackend\\PaintBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ktaylor2\\Desktop\\SoftwareEngineering\\PaintBackend\\PaintBackend\\PaintBackend.csproj",
+        "projectUniqueName": "C:\\Users\\ktaylor2\\Source\\Repos\\MyPaintApp\\PaintBackend\\PaintBackend\\PaintBackend.csproj",
         "projectName": "PaintBackend",
-        "projectPath": "C:\\Users\\ktaylor2\\Desktop\\SoftwareEngineering\\PaintBackend\\PaintBackend\\PaintBackend.csproj",
+        "projectPath": "C:\\Users\\ktaylor2\\Source\\Repos\\MyPaintApp\\PaintBackend\\PaintBackend\\PaintBackend.csproj",
         "packagesPath": "C:\\Users\\ktaylor2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ktaylor2\\Desktop\\SoftwareEngineering\\PaintBackend\\PaintBackend\\obj\\",
+        "outputPath": "C:\\Users\\ktaylor2\\Source\\Repos\\MyPaintApp\\PaintBackend\\PaintBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

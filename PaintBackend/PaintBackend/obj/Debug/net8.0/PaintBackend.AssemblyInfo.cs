@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaintBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e173ecf3840686db61261118252b383e6fd7b4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaintBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaintBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
